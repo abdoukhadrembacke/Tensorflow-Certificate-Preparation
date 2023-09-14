@@ -59,8 +59,8 @@ Replicate the model which powers the PubMed 200k paper to classify different seq
    .Build time series forecasting models with TensorFlow
       RNNs (recurrent neural networks)
       CNNs (convolutional neural networks)
-# 11. Milestone Project 3: BitPredict
-     .Build a deep learning model to find out the Bitcoin price by replicating the N-BEATS algorithm, a state of the art time series forecasting model.
+ # 11. Milestone Project 3: BitPredict
+   .Build a deep learning model to find out the Bitcoin price by replicating the N-BEATS algorithm, a state of the art time series forecasting model.
      
 # What skills did i get throughout the course?
 . Learn how to pass Google's official TensorFlow Developer Certificate exam.
